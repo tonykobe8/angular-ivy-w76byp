@@ -7,3 +7,11 @@ p {
   font-size:13px;
   float:right;
 }
+hr {
+  border:3px solid;
+}
+a {
+  color:blue;
+  font-size:30px;
+  word-spacing :5px ;
+}
