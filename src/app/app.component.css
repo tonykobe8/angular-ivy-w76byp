@@ -13,5 +13,5 @@ hr {
 a {
   color:blue;
   font-size:30px;
-  word-spacing :5px ;
+  layout-align:row ;
 }
