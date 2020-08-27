@@ -10,10 +10,9 @@ p {
 hr {
   border:3px solid;
 }
-.center {
+a {
   color:blue;
   font-size:30px;
-display:flex;
-justify-content:center;
+
 
 }
